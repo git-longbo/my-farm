@@ -1,0 +1,103 @@
+html,body{
+     margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    	}
+	    .container{ 
+		    width:900px;
+		    height:100px;
+		    margin-left:120px;
+	    }
+	    .land{
+		  width:100px;
+		  height:80px;
+		  position:relative;
+		  float:left;
+		  margin: 20px 20px;
+		  background:url(../../images/yellowground.png);
+		  background-size:100% 100%;
+	      background-repeat:no-repeat;
+		  }
+		.land.yellow{
+		  width:100px;
+		  height:80px;
+		  position:relative;
+		  float:left;
+		  margin: 20px 20px;
+		  background:url(../../images/yellowground.png);
+		  background-size:100% 100%;
+	      background-repeat:no-repeat;
+		  }
+		  .land.gold{
+		  width:100px;
+		  height:80px;
+		  position:relative;
+		  float:left;
+		  margin: 20px 20px;
+		  background:url(../../images/ground.png);
+		  background-size:100% 100%;
+	      background-repeat:no-repeat;
+		  }
+		  .land.green{
+		  width:100px;
+		  height:80px;
+		  position:relative;
+		  float:left;
+		  margin: 20px 20px;
+		  background:url(../../images/greenground.png);
+		  background-size:100% 100%;
+	      background-repeat:no-repeat;
+		  }
+		  .land.black{
+		  width:100px;
+		  height:80px;
+		  position:relative;
+		  float:left;
+		  margin: 20px 20px;
+		  background:url(../../images/blackground.png);
+		  background-size:100% 100%;
+	      background-repeat:no-repeat;
+		  }
+		  .crop{
+		  position: absolute;
+		  top:-70px;
+		  left:10px;
+		  width:80px;
+		  height:130px;
+		  background-size: 100% 100%;
+		  background-repeat: no-repeat;
+	
+		  }
+		  .pest{
+		  position: absolute;
+		  width:50px;
+		  height:50px;
+		  left:40px;
+		  background-size: cover;
+		  background-position: 0 0;
+		  background-repeat: no-repeat;
+		  }
+		.line1{
+		  width:900px;
+		  height:140px;
+		  margin-left:0px;
+		  margin-top:90px;
+		 }
+		.line2{ 
+		  width:900px;
+		  height:140px;
+		  margin-left:100px;
+		 }
+		.line3{	
+		  width:900px;
+		  height:140px;
+		  margin-left:200px;
+		 }
+		.line4{
+		  width:900px;
+		  height:140px;
+		  margin-left:300px;
+		 }
+	
